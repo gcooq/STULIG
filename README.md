@@ -5,7 +5,7 @@ Semi-supervised Trajectory-User Linking model with Interpretable representation 
 
 # Environment
 * python 2.7
-* Tensorflow 1.7 or ++ （updated now 2019.05)
+* Tensorflow 1.7 or ++ （updated now 2019.06)
 # Dataset
 Here we list a gowalla dataset for training. 
 * Gowalla: http://snap.stanford.edu/data/loc-gowalla.html
