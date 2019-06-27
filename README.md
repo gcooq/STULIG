@@ -1,7 +1,7 @@
 # STULIG
 data source for STULIG
 
-Semi-supervised Trajectory-User Linking model with Interpretable representation and Gaussian mixture prior
+Towards Interpreting, Discriminating and Synthesizing Motion Traces via Probabilistic Generative Models
 
 # Environment
 * python 2.7
