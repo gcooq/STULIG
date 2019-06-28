@@ -7,7 +7,7 @@ Towards Interpreting, Discriminating and Synthesizing Motion Traces via Deep Pro
 * python 2.7
 * Tensorflow 1.7 or ++ （updated now 2019.06)
 # Dataset
-Here we list a gowalla dataset for training. 
+Here we choose gowalla dataset for training. 
 * Gowalla: http://snap.stanford.edu/data/loc-gowalla.html
 * (remark) Please do not use these datasets for commercial purpose. For academic uses, please cite the paper. Thanks for their help.
 # Usage
