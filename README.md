@@ -1,7 +1,7 @@
 # STULIG
 data source for STULIG
 
-Towards Interpreting, Discriminating and Synthesizing Motion Traces via Probabilistic Generative Models
+Towards Interpreting, Discriminating and Synthesizing Motion Traces via Deep Probabilistic Generative Models
 
 # Environment
 * python 2.7
