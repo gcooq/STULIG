@@ -13,6 +13,8 @@ Here we list a gowalla dataset for training.
 # Usage
 * Training process: We choose the 201 users' sub-trajectories, split these to training data(about 50%) and test data (about 50%). The new code with tensorflow>=1.7, you can run it easily. and also some records will stored by the code (including model, train data and sample results)
 * The format of total.dat : userid/locationid/time/longitude/latitude
+* *python STUL.py*
+* *python STULIG.py*
 
 # Reference
 Hope such an implementation could help you on your projects. Any comments and feedback are appreciated.
